@@ -1,0 +1,8 @@
+.card{
+    background-color: rgb(51, 50, 50);
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+    text-align: center;
+
+}
